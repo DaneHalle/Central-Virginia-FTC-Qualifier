@@ -1,0 +1,1106 @@
+[
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_analog_inputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_servo_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_inspection.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/a2d5f67d1e65f553788962b6d06f9cb5/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_servo.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_digital_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_simple_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_load.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_load.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_simple_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_i2c_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable_icon_menu.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/a2d5f67d1e65f553788962b6d06f9cb5/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_menu.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/f0a668ef1d12c9bd1ad9bb6f478657f4/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_fw_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_color_list_preference_line_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_lynx_usb_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_analog_inputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_warningmessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_menu.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_errormessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/f0a668ef1d12c9bd1ad9bb6f478657f4/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_programming_mode.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/dffeca999bf8d9ae4376ee4a5e4d455f/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_maxmodules.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_motor_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_load.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_gray_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_squarebot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_item_list_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_simple_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/menu_menu_server.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b01c35d23767ac74ec0a5342fa667f4f/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_servo_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable_black_border.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b01c35d23767ac74ec0a5342fa667f4f/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_blocks.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/8664a0b418e74e5ce91745707d418eae/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_simple_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_loading_indicator_overlay.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_red_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address_spin_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_config_wifi_direct.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable_feedback_shape_orange.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_digital_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_advanced_rc_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_motor.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_view_logs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_config_wifi_direct.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_i2c_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_pwms.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_file_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_simple_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_i2cs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_k9usbbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_blocks.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/dffeca999bf8d9ae4376ee4a5e4d455f/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_simple_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_motor_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address_spin_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable_icon_menu.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/e1bf4d8705fa04c60f82e7353a0e29cb/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address_spin_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_motor_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_button_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_view_logs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_analog_outputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_red_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_i2cs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_errormessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable_black_border.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/8664a0b418e74e5ce91745707d418eae/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_matrices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_template_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_file_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/e1bf4d8705fa04c60f82e7353a0e29cb/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_pushbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_channel_selector.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_swap_usb_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_color_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_warningmessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_legacy.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_fw_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable_icon_menu.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/f0a668ef1d12c9bd1ad9bb6f478657f4/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_loading_indicator_overlay.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_device_interface_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_nxtstartupsound.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_configuration.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_digital_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_pushbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_servo_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_address_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_pushbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_maxmodules.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_analog_input_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_app_settings.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_i2c_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_view_logs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_file_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_warningmessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_servo_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_color_list_preference_line_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_texture_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_k9legacybot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_port_attached_row.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_program_and_manage.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_texture_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_texture_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_servo_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_app_settings.xml.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_loading_indicator_overlay.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_analog_outputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_feedback.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_legacy.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_rev_scoot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_analog_inputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_color_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_advanced_rc_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_digital_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_errormessage.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/menu_menu_server.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/8664a0b418e74e5ce91745707d418eae/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_banner_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_i2cs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_squarebot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_blocks.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b01c35d23767ac74ec0a5342fa667f4f/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_channel_selector.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_configuration.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/a2d5f67d1e65f553788962b6d06f9cb5/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_lynx_usb_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_info_button.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_configure_from_template.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_pwm_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_pushbotsens.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_configuration.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_digital_device_lynx.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_motor.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_analog_output_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_servo.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_pwm_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_pushbotsens.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_button_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/e1bf4d8705fa04c60f82e7353a0e29cb/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_inspection.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/f0a668ef1d12c9bd1ad9bb6f478657f4/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/menu_menu_server.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/dffeca999bf8d9ae4376ee4a5e4d455f/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_gray_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_swap_usb_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_chimedisconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_fw_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_digital_device_lynx.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_swap_usb_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_port_attached_row.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_advanced_rc_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_device_interface_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_texture_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/a2d5f67d1e65f553788962b6d06f9cb5/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_rev_scoot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable_feedback_shape_orange.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_matrix_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_pwms.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_color_list_preference_line_item.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module_configure_address.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/menu_ftc_robot_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_address_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_address_update.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_squarebot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_button_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_matrices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_feedback.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_lynx_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/raw_chimeconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_port_attached_row.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_program_and_manage.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_k9legacybot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_motor_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_channel_selector.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_info_button.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_motor_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_configure_from_template.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_generic_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_analog_input_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable_feedback_shape_orange.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/drawable/feedback_shape_orange.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_app_settings.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_k9usbbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_analog_outputs.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_banner_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_matrix_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_matrix_devices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_analog_input_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_chimeconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_program_and_manage.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_texture_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_analog_output_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_template_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_digital_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_servo.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_motor_controller_banner.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_servo_list.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_feedback.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/49813e4c27b7c95d5f1f0945cda24461/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/xml_pushbotsens.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_analog_output_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_digital_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_device_interface_module.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_digital_device_lynx.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_banner_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_gray_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/menu_ftc_robot_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/Centeral Qualifier Code/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_matrices.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_programming_mode.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/b01c35d23767ac74ec0a5342fa667f4f/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_programming_mode.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/8664a0b418e74e5ce91745707d418eae/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_rev_scoot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_red_line.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable_black_border.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/dffeca999bf8d9ae4376ee4a5e4d455f/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_color_fragment_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_nxtstartupsound.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_info_button.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_pwms.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_chimedisconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_chimeconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_menu.png.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18-master/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_legacy.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_maxmodules.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/xml_k9legacybot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_pwm_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_config_wifi_direct.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_inspection.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/e1bf4d8705fa04c60f82e7353a0e29cb/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/menu_ftc_robot_controller.xml.flat",
+        "source": "/Users/Dane/Desktop/STCRobotics17-18/FtcRobotController/build/intermediates/bundles/debug/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_template_info.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_item_list_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/res/merged/debug/layout_activity_generic_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/be36c53f2eb5130bad373dfc02f05f2d/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_activity_generic_settings.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_activity_configure_from_template.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/layout_motor.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/raw_cube_mesh_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/edbb3ea53734bc244de2172d2afe4cfb/res/raw/cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_texture_vertex_shader.glsl.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/8988ec055ee00908d52ad82cb2fea289/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_chimedisconnect.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/xml_k9usbbot.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/res/merged/debug/raw_nxtstartupsound.wav.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/90faab20ff04ba9469e5a94da59a5069/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_item_list_parent.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/Dane/Desktop/Centeral Qualifier Code/TeamCode/build/intermediates/res/merged/debug/layout_lynx_usb_device.xml.flat",
+        "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/FtcCommon-release.aar/79a964f358933dbe17d2520876e0b819/res/layout/lynx_usb_device.xml"
+    }
+]

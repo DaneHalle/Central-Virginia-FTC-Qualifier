@@ -1,0 +1,4 @@
+#Sat Feb 10 12:44:25 EST 2018
+base.0=/Users/Dane/Desktop/STCRobotics17-18/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
