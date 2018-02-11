@@ -44,20 +44,20 @@ public class Dual extends LinearOpMode {
             if(gamepad1.right_stick_y>0||gamepad1.right_stick_y<0||gamepad1.left_stick_y>0||gamepad1.left_stick_y<0){
                 right = -(gamepad1.right_stick_y)*mult;
                 left = -(gamepad1.left_stick_y)*mult;
-                robot.frontRight.setPower(right*2);
+                robot.frontRight.setPower(right);
                 robot.backRight.setPower(right);
-                robot.frontLeft.setPower(left*2);
+                robot.frontLeft.setPower(left);
                 robot.backLeft.setPower(left);
 
             //strafe
             }else if(gamepad1.left_bumper){
-                robot.backLeft.setPower(-2);
-                robot.backRight.setPower(2);
+                robot.backLeft.setPower(-1);
+                robot.backRight.setPower(1);
                 robot.frontLeft.setPower(1);
                 robot.frontRight.setPower(-1);
             }else if(gamepad1.right_bumper){
-                robot.backLeft.setPower(2);
-                robot.backRight.setPower(-2);
+                robot.backLeft.setPower(1);
+                robot.backRight.setPower(-1);
                 robot.frontLeft.setPower(-1);
                 robot.frontRight.setPower(1);
 
@@ -65,23 +65,23 @@ public class Dual extends LinearOpMode {
             }else if(gamepad1.y){
                 robot.backLeft.setPower(.25);
                 robot.backRight.setPower(.25);
-                robot.frontLeft.setPower(.4);
-                robot.frontRight.setPower(.4);
+                robot.frontLeft.setPower(.25);
+                robot.frontRight.setPower(.25);
             }else if(gamepad1.a){
                 robot.backLeft.setPower(-.25);
                 robot.backRight.setPower(-.25);
-                robot.frontLeft.setPower(-.4);
-                robot.frontRight.setPower(-.4);
+                robot.frontLeft.setPower(-.25);
+                robot.frontRight.setPower(-.25);
             }else if(gamepad1.x){
                 robot.backLeft.setPower(-.25);
                 robot.backRight.setPower(.25);
-                robot.frontLeft.setPower(.4);
-                robot.frontRight.setPower(-.4);
+                robot.frontLeft.setPower(.25);
+                robot.frontRight.setPower(-.25);
             }else if(gamepad1.b){
                 robot.backLeft.setPower(.25);
                 robot.backRight.setPower(-.25);
-                robot.frontLeft.setPower(-.4);
-                robot.frontRight.setPower(.4);
+                robot.frontLeft.setPower(-.25);
+                robot.frontRight.setPower(.25);
 
             //stop dat shit
             }else{

@@ -17,6 +17,22 @@
             ]
         },
         {
+            "outputFile": "/Users/Dane/Desktop/Central Qualifier Code/Centeral-Virginia-FTC-Qualifier/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/Dane/.gradle/caches/transforms-1/files-1.1/RobotCore-release.aar/4226863af84d7cfefa94287e0936be43/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/Dane/Desktop/STCRobotics17-18-master/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
